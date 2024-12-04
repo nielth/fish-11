@@ -1,0 +1,5 @@
+wandb/
+bg_removal/
+fish_image/
+mask_image/
+.venv/
